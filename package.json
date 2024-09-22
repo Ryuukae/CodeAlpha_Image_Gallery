@@ -1,0 +1,14 @@
+{
+  "name": "codealpha_image_gallery",
+  "version": "0.1.0",
+  "description": "A basic image gallery with a modal for full-size images. Sourced from CodeAlpha's Frontend Internship Projects.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "ryuukae@adamrossdestafeno.dev",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
